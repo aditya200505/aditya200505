@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **web development projects**
+- 👯 I’m looking to collaborate on **FULL STACK WEB DEVELOPMENT**
 
-- 🤝 I’m looking for help with **Web Development**
+- 🤝 I’m looking for help with **MACHINE LEARNING/ DATA ANALYTICS**
 
-- 💬 Ask me about **UI/XI**
+- 💬 Ask me about **bugs that made me question life**
 
 - 📫 How to reach me **avajpayee2005@gmail.com**
 
